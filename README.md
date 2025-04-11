@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="IMG_3873.jpeg" />
+<img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
 
 <span style="float:right;padding:6px"> 
  Prattville, AL 36066 <br> smithtina1203@aol.com <br> mobile: (334) XXX-XXXX <br> 
@@ -83,5 +82,9 @@ Seeking a position where I can contribute to the overall success of the organiza
 *	Graduated with a 3.1 GPA.
 *	Concentration in Business.
   
+## Projects 
+* [Portfolio](https://mstina03.github.io/Portfolio/)
+*
+
 ## References
 * Available upon request.
