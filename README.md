@@ -1,4 +1,4 @@
-## Hello, I am Tina  👋
+## Hello, I am Tina. Thank you for checking me out here on GitHub.  👋
 
 <!--
 **mstina03/mstina03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
 
 <span style="float:right;padding:6px"> 
- Prattville, AL 36066 <br> smithtina1203@aol.com <br> mobile: (334) XXX-XXXX <br> 
+ Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) XXX-XXXX <br> 
 </span>
+ 
+ [Linkedin](https://www.linkedin.com/in/smithtina1203)
 
 # Tina Nicole Smith  
 
@@ -84,7 +86,7 @@ Seeking a position where I can contribute to the overall success of the organiza
   
 ## Projects 
 * [Portfolio](https://mstina03.github.io/Portfolio/)
-*
+* 
 
 ## References
 * Available upon request.
