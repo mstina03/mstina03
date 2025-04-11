@@ -89,7 +89,8 @@ Seeking a position where I can contribute to the overall success of the organiza
   
 ## Projects 
 * [Portfolio](https://mstina03.github.io/Portfolio/)
-* 
+* Placeholder 2
+* Placeholder 3
 
 ## References
 * Available upon request.
