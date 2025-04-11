@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
+<div>
+ <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
+ <img style="float:right; border-radius:50%; width:600px; height:250px; padding:6px" src="Banner.jpg" />
+ <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873B.jpeg" />
+</div>
 
 <span style="float:right;padding:6px"> 
  Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) XXX-XXXX <br> 
@@ -23,8 +27,8 @@ Here are some ideas to get you started:
  
  [Linkedin](https://www.linkedin.com/in/smithtina1203)
 
-# Tina Nicole Smith  
 
+# Tina Nicole Smith
 ## Objective
 Seeking a position where I can contribute to the overall success of the organization by levering my knowledge of programming languages, data structures, utilities, and software packages for software development. 
 
