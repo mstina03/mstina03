@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div>
  <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
- <img style="float:right; border-radius:50%; width:500px; height:250px; padding:6px" src="Banner.jpg" />
- <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873B.jpeg" />
+ <img style="float:right; border-radius:50%; width:700px; height:250px; padding:6px" src="Banner.jpg" />
+
 </div>
 
 <span style="float:right;padding:6px"> 
