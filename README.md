@@ -91,8 +91,8 @@ ___
 
 ## Projects 
 ___
-* [Portfolio](https://mstina03.github.io/Portfolio/)
+[Portfolio](https://mstina03.github.io/Portfolio/)
 
 ## References
 ___
-* Available upon request.
+Available upon request.
