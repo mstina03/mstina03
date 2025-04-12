@@ -80,10 +80,15 @@ ___
 *	Graduated with a 3.6 GPA.
 *	Concentration in Leadership and Ethics.
   
-### Bachelor of Science in Computer Information Systems <br> <sup> Tuskegee University, Tuskegee, Alabama</sup>
+### Bachelor of Science - Computer Information Systems <br> <sup> Tuskegee University, Tuskegee, Alabama</sup>
 *	Graduated with a 3.1 GPA.
 *	Concentration in Business.
-  
+
+### Certificate of Completion - Software Development <br> <sup> Texas A&M University Kingsville, Kingsville, Texas </sup>
+* August 2025
+* Developed web applications using React and Node.js
+* Skills: React, Node.js, JavaScript, HTML, CSS.
+
 ## Projects 
 ___
 * [Portfolio](https://mstina03.github.io/Portfolio/)
