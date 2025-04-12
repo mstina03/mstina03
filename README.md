@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 
 # Tina Nicole Smith
 ## Objective
+___
 Seeking a position where I can contribute to the overall success of the organization by levering my knowledge of programming languages, data structures, utilities, and software packages for software development. 
 
 ## Key Qualifications		
+___
 *	Expert knowledge and skills, with a proven ability to lead projects from inception through to production release.
 *	Expert ability to work and communicate effectively with clients, software engineers, and management in a highly visible, mission-critical environment both verbally and in writing.
 *	Experience collaborating with product owners and subject matter experts to understand business needs and recommend solutions on large and/or complex projects.
@@ -40,9 +42,9 @@ Seeking a position where I can contribute to the overall success of the organiza
 *	Experiences with .Net, C#, SQL, C, C++, HTML, CSS, JavaScript.
 
 ## Work Experience
+___
+### Software Engineer <br> <sup>Walmart Global Tech, Bentonville, AR - June 2018 – Aug 2024	</sup>							
 
-### Software Engineer							
-#### Walmart Global Tech, Bentonville, AR - June 2018 – Aug 2024	
 *	Provides expertise of all aspects of high-performance computing, (architecture, engineering, software development, and data visualization) to support Walmart Strategic goals.
 *	Make enhancements to existing software applications and websites.
 *	Design and write new processes to accomplish business goals.
@@ -51,8 +53,7 @@ Seeking a position where I can contribute to the overall success of the organiza
 *	Ensures that security is seamlessly and effectively integrated with the software development life cycle (SDLC).
 *	Used Visual Studio & Jet Brains Rider IDE to design and develop .Net & .Net Core applications
 
-### Release Engineer 							  
-#### Walmart Global Tech, Bentonville, AR - January 2009 – June 2018 
+### Release Engineer <br> <sup> Walmart Global Tech, Bentonville, AR - January 2009 – June 2018 </sup> 							  
 *	Addressed software configuration management issues in coordination with development team.
 *	Implemented code builds and automated deployment procedures.
 *	Resolved build and release dependencies in collaboration with other departments.
@@ -62,35 +63,31 @@ Seeking a position where I can contribute to the overall success of the organiza
 *	Maintained and updated source code repositories on a regular basis. 
 *	Assisted code integration and coordination between teams and partners. 
 
-### Programmer 								    
-#### Walmart Global Tech, Bentonville, AR - July 2007 – January 2009
+### Programmer <br> <sup> Walmart Global Tech, Bentonville, AR - July 2007 – January 2009</sup>						    
 *	Provide customer support for various team applications.
 *	Research and correct data inconsistencies between databases.
 *	Modify existing software to meet change requests.
 *	Coordinate software releases. 
 
-### Vision Center Manager 					              
-#### Walmart Supercenter, Demopolis, AL - September 2005 – July 2007
+### Vision Center Manager <br> <sup> Walmart Supercenter, Demopolis, AL - September 2005 – July 2007 </sup> 					              
 *	Manage confidential information & documentation as required by the company.
 *	Control inventory and shrink.
 *	Maintain proper staffing to support customer volume.
 
 ## Education
-
-### Master of Business Administration
-#### John Brown University, Siloam Springs, Arkansas
+___
+### Master of Business Administration <br> <sup> John Brown University, Siloam Springs, Arkansas</sup>
 *	Graduated with a 3.6 GPA.
 *	Concentration in Leadership and Ethics.
   
-### Bachelor of Science in Computer Information Systems
-#### Tuskegee University, Tuskegee, Alabama
+### Bachelor of Science in Computer Information Systems <br> <sup> Tuskegee University, Tuskegee, Alabama</sup>
 *	Graduated with a 3.1 GPA.
 *	Concentration in Business.
   
 ## Projects 
+___
 * [Portfolio](https://mstina03.github.io/Portfolio/)
-* Placeholder 2
-* Placeholder 3
 
 ## References
+___
 * Available upon request.
