@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div>
- <img style="float:right; border-radius:50%; width:200px; padding:6px" src="IMG_3873.jpeg" />
- <img style="float:right; border-radius:50%; width:625px; height:250px; padding:6px" src="Banner.jpg" />
+ <img src="https://github.com/mstina03/mstina03/blob/main/IMG_3873.jpeg" alt="Avatar" style="width:200px; overflow:hidden; border-radius:50%;"  />
+ <img src="https://github.com/mstina03/mstina03/blob/main/Banner.jpg" style="float:right; width:625px; height:275px;"  />
 </div>
 
-<span style="float:right;padding:6px"> 
+<span> 
  Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) XXX-XXXX <br> 
 </span>
  
