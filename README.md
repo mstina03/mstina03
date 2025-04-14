@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <div>
- <img src="https://github.com/mstina03/mstina03/blob/main/IMG_3873.jpeg" alt="Avatar" style="width:200px; overflow:hidden; border-radius:50%;"  />
- <img src="https://github.com/mstina03/mstina03/blob/main/Banner.jpg" style="float:right; width:625px; height:275px;"  />
+ <img src="IMG_3873.jpeg" alt="Avatar" style="width:200px; overflow:hidden; border-radius:50%;"  />
+ <img src="Banner.jpg" style="float:right; width:625px; height:275px;"  />
 </div>
 
 <span> 
