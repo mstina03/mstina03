@@ -44,7 +44,7 @@ ___
 
 ## Work Experience
 ___
-### Software Engineer <br> <sup>Walmart Global Tech, Bentonville, AR - June 2018 – Aug 2024	</sup>							
+### Software Engineer <br> <sup> [Walmart Global Tech, Bentonville, AR - June 2018 – Aug 2024](https://tech.walmart.com/content/walmart-global-tech/en_us.html)	</sup>							
 
 *	Provides expertise of all aspects of high-performance computing, (architecture, engineering, software development, and data visualization) to support Walmart Strategic goals.
 *	Make enhancements to existing software applications and websites.
@@ -53,7 +53,7 @@ ___
 *	Ensures security standards are met anticipates problems, research trends in system needs and determines when new or additional hardware/software is required.
 *	Ensures that security is seamlessly and effectively integrated with the software development life cycle (SDLC).
 
-### Release Engineer <br> <sup> Walmart Global Tech, Bentonville, AR - January 2009 – June 2018 </sup> 							  
+### Release Engineer <br> <sup> [Walmart Global Tech, Bentonville, AR - January 2009 – June 2018](https://tech.walmart.com/content/walmart-global-tech/en_us.html) </sup> 							  
 *	Addressed software configuration management issues in coordination with development team.
 *	Implemented code builds and automated deployment procedures.
 *	Resolved build and release dependencies in collaboration with other departments.
@@ -63,13 +63,13 @@ ___
 *	Maintained and updated source code repositories on a regular basis. 
 *	Assisted code integration and coordination between teams and partners. 
 
-### Programmer <br> <sup> Walmart Global Tech, Bentonville, AR - July 2007 – January 2009</sup>						    
+### Programmer <br> <sup> [Walmart Global Tech, Bentonville, AR - July 2007 – January 2009](https://tech.walmart.com/content/walmart-global-tech/en_us.html)</sup>						    
 *	Provide customer support for various team applications.
 *	Research and correct data inconsistencies between databases.
 *	Modify existing software to meet change requests.
 *	Coordinate software releases. 
 
-### Vision Center Manager <br> <sup> Walmart Supercenter, Demopolis, AL - September 2005 – July 2007 </sup> 					              
+### Vision Center Manager <br> <sup> [Walmart Supercenter, Demopolis, AL - September 2005 – July 2007](https://www.walmart.com/store/731-demopolis-al) </sup> 					              
 *	Manage confidential information & documentation as required by the company.
 *	Control inventory and shrink.
 *	Maintain proper staffing to support customer volume.
