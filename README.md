@@ -89,10 +89,9 @@ ___
 *	Concentration in Leadership and Ethics.
   
 ### Bachelor of Science - Computer Information Systems <br> <sup> [Tuskegee University - Tuskegee, Alabama](http://www.tuskegee.edu)</sup> <sup> 
-##### January  August 1999 - May 2004
+##### August 1999 - May 2004
 *	Graduated with a 3.1 GPA.
 *	Concentration in Business.
-
 
 
 ## Projects 
