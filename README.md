@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  [Linkedin](https://www.linkedin.com/in/smithtina1203)
 
 
-# Tina Nicole Smith
+# [Tina Nicole Smith](https://mstina03.github.io./#about)
 ## Objective
 ___
 Seeking a position where I can contribute to the overall success of the organization by levering my knowledge of programming languages, data structures, utilities, and software packages for software development. 
@@ -77,21 +77,22 @@ ___
 ## Education
 ___
 
-### Software Engineering Bootcamp <br> <sup> Texas A&M University Kingsville - Kingsville, Texas </sup> 
+### Software Engineering Bootcamp <br> <sup> [Texas A&M University Kingsville - Kingsville, Texas](https://www.quickstart.com/bootcamp/software-engineering/) </sup> 
 ##### March 2025 - August 2025
 * Immersive training program with an emphasis on Fullstack Web Development
 * Developed web applications using React and Node.js
 * Skills: React, Node.js, JavaScript, HTML, CSS.
 
-### Master of Business Administration <br> <sup> John Brown University - Siloam Springs, Arkansas</sup> 
+### Master of Business Administration <br> <sup> [John Brown University - Siloam Springs, Arkansas](https://www.jbu.edu)</sup> 
 ##### January  2010 - December  2011
 *	Graduated with a 3.6 GPA.
 *	Concentration in Leadership and Ethics.
   
-### Bachelor of Science - Computer Information Systems <br> <sup> Tuskegee University - Tuskegee, Alabama</sup> <sup> 
+### Bachelor of Science - Computer Information Systems <br> <sup> [Tuskegee University - Tuskegee, Alabama](http://www.tuskegee.edu)</sup> <sup> 
 ##### January  August 1999 - May 2004
 *	Graduated with a 3.1 GPA.
 *	Concentration in Business.
+
 
 
 ## Projects 
