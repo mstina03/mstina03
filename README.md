@@ -96,7 +96,8 @@ ___
 
 ## Projects 
 ___
-Loading ...
+* [Portfolio](https://mstina03.github.io/Portfolio)
+* [Search Engine](https://mstina03.github.io/SearchEngine)
 
 ## References
 ___
